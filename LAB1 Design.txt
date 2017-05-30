@@ -1,0 +1,8 @@
+DATABASE TEMPLATE:
+Number of Players-Interger
+Name of Game- String
+Year Released - Interger
+Genre - String
+
+games(null id, name string, genre string, 
+year rleased int, players int
